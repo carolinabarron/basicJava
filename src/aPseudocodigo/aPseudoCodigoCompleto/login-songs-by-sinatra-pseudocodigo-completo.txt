@@ -1,0 +1,23 @@
+**** Carolina Barrón *****
+*** Sábado 16 de mayo 2020 *****
+
+*Tarea 1 - Viernes 15 de mayo *
+
+Login to "Songs By Sinatra" page
+
+Pre-conditions
+	Electronic device with internet connection (pc, mobile, tablet)
+	Web browser installed on the electronic device (Chrome, Firefox, IE, Edge)
+	Username: frank
+	Password: sinatra
+
+Steps:
+	1. Open the web browser
+	2. Type in or copy the url http://songs-by-sinatra.herokuapp.com/login
+	3. On home page click on "log in" link at the bottom of the page
+	4. On the login page opened (http://songs-by-sinatra.herokuapp.com/login) type in frank on the "Username:" text box
+	5. Type in sinatra on the "Password:" text box
+	6. Click on the "Log In" button
+	7. Verify the displayed page contains the logged in confirmation message: "You are now logged in as frank"
+	   and the welcome message "Welcome to this website all about the songs of the great Frank Sinatra"
+	   "log out" link is displayed

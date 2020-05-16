@@ -1,0 +1,51 @@
+**** Carolina Barrón *****
+*** Sábado 16 de mayo 2020 *****
+
+*Tarea 2 - Viernes 15 de mayo *
+
+Login to "Songs By Sinatra" page
+
+Pre-conditions
+	Electronic device with internet connection (pc, mobile, tablet)
+	Web browser installed on the electronic device (Chrome, Firefox, IE, Edge)
+	Username: frank
+	Password: sinatra
+
+Steps:
+	1. Open the web browser
+	2. Type in or copy the url http://songs-by-sinatra.herokuapp.com/login
+	3. On home page click on "log in" link at the bottom of the page
+	4. On the login page opened (http://songs-by-sinatra.herokuapp.com/login) type in frank on the "Username:" text box
+	5. Type in sinatra on the "Password:" text box
+	6. Click on the "Log In" button
+	7. Verify the displayed page contains the logged in confirmation message: "You are now logged in as frank"
+	   and the welcome message "Welcome to this website all about the songs of the great Frank Sinatra"
+	   The log out link is displayed
+
+
+**********************
+
+Pre conditions
+	Electronic device with internet connection (pc, mobile, tablet)
+	Web browser installed on the electronic device (Chrome, Firefox, IE, Edge)
+	User is logged in on "Songs by Sinatra" page
+
+Steps:
+	1. Once the users is on the welcome login page click on Songs tab
+	2. On the opened page http://songs-by-sinatra.herokuapp.com/songs showing "Internal Server Error" append "/new" at the end of the url
+	3. On the opened page "Add a New Song" enter any string on the "Title" text box
+	4. Enter a numeric value for the "Length" field or select a value using the arrows on the numeric select field
+	5. Click on the "Date" text box and from the calendar displayed select any date
+	6. Click on the "Lyrics" text box and enter any string
+	7. Click on "Save Song" button
+	8. Verify the song was added on the confirmation page opened. "Song successfully added" message is displayed.
+	The values entered on previous steps are displayed:
+		Title
+		Release Date
+		Length
+		Lyrics
+	"Like" button is displayed and it is clickable
+	"edit this song" link is displayed
+	"delete this song" button is displayed
+	"log out" link is displayed
+
