@@ -1,0 +1,71 @@
+**Funciones simples de pseudocódigo para preparar un sandwich
+
+reunirIngredientes()
+{
+    ReunirPan ( Rebanado, Barra, Blanco, Integral, Trigo, Centeno )
+    ReunirAderezo ( Mayonesa, crema, mostaza ),
+    ReunirJamón ( Pierna, pavo ),
+    ReunirQueso ( Chihuahua, manchego, gouda )
+    ReunirVegetales ( lechuga, tomate, cebolla, pepino, pepinillos )
+    ReunirPicante ( Salsa, chile de diversos tipos)
+
+}
+
+
+reunirUtensilios()
+{
+    Cuchillos (Serrado, cebollero)
+    Tabla de picar (madera, plástico)
+    Platos
+    Servilletas
+}
+
+prepararVegetales()
+{
+    Rebanar tomates
+    Rebanar cebolla
+    Deshojar lechuga
+    Rebanar pepino
+}
+
+armarPan()
+{
+    Tomar 2 rebanadas de pan
+    Abrir paquete de pan rebanado o rebanar barra de pan.  ¿Quitar orillas?
+}
+
+embadurnarPan()
+{
+    Embadurnar ambas rebanadas de pan
+    ¿Ambas con mayonesa? ¿Una con mayonesa otra con mostaza?
+}
+
+colocarJamon()
+{
+    Colocar Jamón sobre un pan
+    ¿Una rebanada? ¿Dos?
+}
+
+colocarVegetales()
+{
+    Agregar x hojas de lechuga sobre el jamón
+         “  x rodajas de tomate sobre la lechuga
+         “ x rodajas de cebolla sobre el tomate
+         “ x rodajas de pepino sobre la cebolla
+}
+
+agregarPicante()
+{
+    ¿Qué cantidad? ¿Qué tipo?
+}
+
+
+colocarSegundoPan()
+{
+    ¿Cortar por mitades? ¿Cuartos?
+}
+
+envolverSandwich()
+{
+    //Pasos para envolver sandwich
+}

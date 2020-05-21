@@ -1,0 +1,28 @@
+** Carolina Barrón **
+** Martes 19 de mayo de 2020 **
+
+Pre conditions
+	Electronic device with internet connection (pc, mobile, tablet)
+	Web browser installed on the electronic device (Chrome, Firefox, IE, Edge)
+	User is logged in on "Songs by Sinatra" page
+
+Steps:
+	1. Once the users is on the welcome login page click on Songs tab
+	2. Wait for"Songs" page to load (http://evening-bastion-49392.herokuapp.com/songs)
+	3. Click on "Create a new song" link
+	4. Wait for the "Add a New Song" to load
+	5. Enter any string on the "Title" text box
+	6. Enter a numeric value for the "Length" field or select a value using the arrows on the numeric select field
+	7. Click on the "Date" text box and from the calendar displayed select any date
+	8. Click on the "Lyrics" text box and enter any string
+	9. Click on "Save Song" button
+	10. Verify the song was added on the confirmation page opened. "Song successfully added" message is displayed.
+	The values entered on previous steps are displayed:
+		Title
+		Release Date
+		Length
+		Lyrics
+	"Like" button is displayed and it is clickable
+	"edit this song" link is displayed
+	"delete this song" button is displayed
+	"log out" link is displayed

@@ -1,0 +1,28 @@
+*** UPDATE WEEKLY PROJECT STATUS IN BOX ***
+May 20th, 2020
+
+navigateToBoxFile(url, sso)
+{
+
+}
+
+validateFileExists(file_name)
+{
+
+}
+
+editFile(filename, project_name, project_description, sprint, comments, highlights, date)
+{
+
+}
+
+
+closeFile()
+{
+
+}
+
+validateUpdateFile(file_name, date, editor_name)
+{
+
+}

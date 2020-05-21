@@ -1,0 +1,31 @@
+**Hacer 5 sandwiches de jamón
+hacer5SandwichesJamon()
+{
+    numero_sandwiches_jamon es cero
+    while (numero_sandwiches_jamon es menor que 5)
+    {
+        hacerSandwich();
+        suma uno a numero_sandwiches_jamon
+    }
+}
+
+**Hacer 10 sandwiches de Bolonia
+hacer10SandwichesBolonia()
+{
+
+    numero_sandwiches_Bolonia es cero
+    while (numero_sandwiches_bolonia es menor que 10)
+    {
+        hacerSandwich();
+        suma uno a numero_sandwiches_bolonia
+    }
+}
+
+*** Función para hacer 5 sandwiches de jamón y 10 de Bolonia
+hacerSandwiches()
+{
+     hacer5SandwichesJamon();
+     hacer10SandwichesBolonia();
+
+}
+
