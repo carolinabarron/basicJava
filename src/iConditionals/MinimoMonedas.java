@@ -5,7 +5,9 @@ public class MinimoMonedas {
 
     public static void main(String[] args) {
       System.out.println("Introduce el cambio a devolver: ");
-     double cambiod = Input.get_double();
+
+          double cambiod = Input.get_double();
+      
      int cambio= (int) (cambiod * 100);
       calculaMonedas(cambio);
 
