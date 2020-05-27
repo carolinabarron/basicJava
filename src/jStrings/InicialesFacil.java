@@ -8,19 +8,10 @@ public class InicialesFacil {
 
         String[] nombres=nombre.split(" ");
 
-
             for(int i=0; i<nombres.length; i++) {
                   if (nombres[i].charAt(0) >= 'A' && nombres[i].charAt(0) <= 'Z') {
-
                     System.out.print(nombres[i].charAt(0));
                 }
-
-
-
             }
-
-
-
-
     }
 }
