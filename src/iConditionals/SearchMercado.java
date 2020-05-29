@@ -2,24 +2,22 @@ package iConditionals;
 
 public class SearchMercado {
 
-        public static void main(String[] args) {
+    public static void main(String[] args) {
 
-            String url="https://www.mercadolibre.com.mx/";
-            String browsertitle;
+        String url = "https://www.mercadolibre.com.mx/";
+        String browsertitle;
 
+        navigate();
+        boolean verif = verifyHomepage();
+
+        if (verif == true) {
+            searchProduct();
+        } else {
             navigate();
-            boolean verif=verifyHomepage();
-
-            if (verif==true) {
-                searchProduct();
-            }
-            else {
-                navigate();
-            }
-
-            validateSearchresults();
-
         }
+
+        validateSearchresults();
+    }
 
 
     public static void navigate() {
@@ -41,7 +39,7 @@ public class SearchMercado {
 
         }
 
-        else{
+            else{
             System.out.println("Incorrect page");
         }
         return flag;
@@ -49,19 +47,16 @@ public class SearchMercado {
 
 
     private static void searchProduct() {
-            //Enter the search criteria and click enter
+        //Enter the search criteria and click enter
     }
 
     private static void validateSearchresults() {
-            //if (results match with the search criteria)
-                // Search = success
+        //if (results match with the search criteria)
+        // Search = success
 
-            //else if (message= "No hay publicaciones que coincidan con tu búsqueda")
-                //Search = failed
+        //else if (message= "No hay publicaciones que coincidan con tu búsqueda")
+        //Search = failed
 
-        }
-
-
-
-        }
+    }
+}
 

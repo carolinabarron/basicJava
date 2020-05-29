@@ -1,5 +1,3 @@
-** MERCADO LIBRE SEARCH FUNCTION **
-
 *Search on mercadolibre.com.mx*
 
 Pre-conditions
