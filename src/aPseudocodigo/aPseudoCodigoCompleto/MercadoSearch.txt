@@ -1,0 +1,18 @@
+** MERCADO LIBRE SEARCH FUNCTION **
+
+*Search on mercadolibre.com.mx*
+
+Pre-conditions
+	Electronic device with internet connection (pc, mobile, tablet)
+	Web browser installed on the electronic device (Chrome, Firefox, IE, Edge)
+
+
+Steps:
+	1. Open the web browser
+	2. Type in or copy the url https://www.mercadolibre.com.mx/ on the url navigation bar
+	3. Wait for the page to load
+	4. Click on the Search field
+	5. Enter the search criteria
+	6. Click enter
+	7. Wait for the results page to load
+	8. Verify the list displayed contains the product you searched for on step 5
